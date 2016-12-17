@@ -58,6 +58,7 @@ h2{
 }
 /*navigation for site*/
 nav a{
+	line-height: 2em;
 	font-size: 1em;
 	text-decoration: none;
 	display: block;
